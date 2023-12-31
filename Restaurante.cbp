@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Restaurante" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Restaurante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Restaurante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/clases/Detalle.h" />
+		<Unit filename="include/clases/Ticket.h" />
+		<Unit filename="include/clases/bebidas.h" />
+		<Unit filename="include/clases/clientes.h" />
+		<Unit filename="include/clases/comidas.h" />
+		<Unit filename="include/clases/configuracion.h" />
+		<Unit filename="include/clases/mozos.h" />
+		<Unit filename="include/clases/personas.h" />
+		<Unit filename="include/clases/sucursales.h" />
+		<Unit filename="include/funciones/Funciones_Detalle.h" />
+		<Unit filename="include/funciones/Funciones_Mozo.h" />
+		<Unit filename="include/funciones/Funciones_globales.h" />
+		<Unit filename="include/funciones/Funciones_ticket.h" />
+		<Unit filename="include/funciones/IVA.h" />
+		<Unit filename="include/funciones/cargar.h" />
+		<Unit filename="include/funciones/mostrar.h" />
+		<Unit filename="include/funciones/reportes.h" />
+		<Unit filename="include/librerias/Basics.h" />
+		<Unit filename="include/librerias/Fecha.h" />
+		<Unit filename="include/librerias/Iva.h" />
+		<Unit filename="include/librerias/Menu.h" />
+		<Unit filename="include/librerias/errores.h" />
+		<Unit filename="include/librerias/rlutil.h" />
+		<Unit filename="include/menus/menu_carga.h" />
+		<Unit filename="include/menus/menu_principal.h" />
+		<Unit filename="include/menus/menu_recuperacion.h" />
+		<Unit filename="include/menus/menu_registros.h" />
+		<Unit filename="include/menus/menu_reportes.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

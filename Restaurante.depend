@@ -1,0 +1,985 @@
+# depslib dependency file v1.0
+1667441396 source:f:\desktop\proyectos\restaurante\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/ventas.h"
+	"include/fun/a.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1667348850 f:\desktop\proyectos\restaurante\include\librerias\errores.h
+
+1666643688 f:\desktop\proyectos\restaurante\include\librerias\fecha.h
+	<time.h>
+
+1667015768 f:\desktop\proyectos\restaurante\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 f:\desktop\proyectos\restaurante\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667499191 f:\desktop\proyectos\restaurante\include\clases\personas.h
+
+1667444084 f:\desktop\proyectos\restaurante\include\clases\mozos.h
+
+1667438012 f:\desktop\proyectos\restaurante\include\clases\comidas.h
+
+1667065805 f:\desktop\proyectos\restaurante\include\clases\bebidas.h
+
+1667443970 f:\desktop\proyectos\restaurante\include\clases\clientes.h
+
+1667506636 f:\desktop\proyectos\restaurante\include\clases\ventas.h
+
+1667399408 f:\desktop\proyectos\restaurante\include\menus\menu_principal.h
+
+1667352847 f:\desktop\proyectos\restaurante\include\librerias\basics.h
+
+1666628720 f:\desktop\proyectos\restaurante\include\fun\a.h
+
+1667506806 f:\desktop\proyectos\restaurante\include\fun\cargar.h
+
+1667270805 f:\desktop\proyectos\restaurante\include\fun\mostrar.h
+
+1667441119 f:\desktop\proyectos\restaurante\include\menus\menu_carga.h
+
+1666668389 f:\desktop\proyectos\restaurante\include\menus\menu_muestra.h
+
+1667147514 f:\desktop\proyectos\restaurante\include\clases\sucursales.h
+
+1667511285 f:\desktop\proyectos\restaurante\include\fun\reportes.h
+
+1667510233 f:\desktop\proyectos\restaurante\include\menus\menu_reportes.h
+
+1667444243 f:\desktop\proyectos\restaurante\include\menus\menu_registros.h
+
+1667225552 f:\desktop\proyectos\restaurante\include\fun\reportes.simples.h
+
+1667344165 f:\desktop\proyectos\restaurante\include\menus\menu_reportes_basicos.h
+
+1667344500 f:\desktop\proyectos\restaurante\include\fun\filtrar.mozos.h
+
+1667226042 f:\desktop\proyectos\restaurante\include\fun\filtrar.clientes.h
+
+1667226175 f:\desktop\proyectos\restaurante\include\fun\filtrar.bebidas.h
+
+1667226146 f:\desktop\proyectos\restaurante\include\fun\filtrar.platos.h
+
+1667226148 f:\desktop\proyectos\restaurante\include\fun\filtrar.sucursales.h
+
+1667441530 f:\desktop\proyectos\restaurante\include\menus\menu_recuperacion.h
+
+1667443193 f:\desktop\proyectos\restaurante\include\fun\recuperar.h
+
+1667533160 source:d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/configuracion.h"
+	"include/clases/ventas.h"
+	"include/fun/a.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1667352848 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\librerias\basics.h
+
+1667348852 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\librerias\errores.h
+
+1666643688 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\librerias\fecha.h
+	<time.h>
+
+1667015770 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667499192 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\personas.h
+
+1667147516 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\sucursales.h
+
+1667444086 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\mozos.h
+
+1667438014 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\comidas.h
+
+1667065806 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\bebidas.h
+
+1667443972 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\clientes.h
+
+1667532898 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\ventas.h
+
+1666628720 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\fun\a.h
+
+1667506808 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\fun\cargar.h
+
+1667270806 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\fun\mostrar.h
+
+1667532301 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\fun\reportes.h
+
+1667536176 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\fun\recuperar.h
+
+1667444244 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\menus\menu_registros.h
+
+1667441120 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\menus\menu_carga.h
+
+1667530399 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\menus\menu_reportes.h
+
+1667533296 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\menus\menu_recuperacion.h
+
+1667399410 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\menus\menu_principal.h
+
+1667535874 d:\usuario\documents\pinkman\utn\utn pacheco\tecnicatura programacion\año 1 cuatri 2\laboratorio de computacion 2\proyecto final 6.0\include\clases\configuracion.h
+
+1667954820 source:f:\desktop\proyectos\proyecto final 6.1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/configuracion.h"
+	"include/clases/ventas.h"
+	"include/fun/a.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/random.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_random.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1667953262 f:\desktop\proyectos\proyecto final 6.1\include\librerias\basics.h
+
+1667348852 f:\desktop\proyectos\proyecto final 6.1\include\librerias\errores.h
+
+1668089921 f:\desktop\proyectos\proyecto final 6.1\include\librerias\fecha.h
+	<time.h>
+
+1668042569 f:\desktop\proyectos\proyecto final 6.1\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 f:\desktop\proyectos\proyecto final 6.1\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667499192 f:\desktop\proyectos\proyecto final 6.1\include\clases\personas.h
+
+1667953415 f:\desktop\proyectos\proyecto final 6.1\include\clases\sucursales.h
+
+1667953476 f:\desktop\proyectos\proyecto final 6.1\include\clases\mozos.h
+
+1668084762 f:\desktop\proyectos\proyecto final 6.1\include\clases\comidas.h
+
+1667953506 f:\desktop\proyectos\proyecto final 6.1\include\clases\bebidas.h
+
+1668089212 f:\desktop\proyectos\proyecto final 6.1\include\clases\clientes.h
+
+1667600940 f:\desktop\proyectos\proyecto final 6.1\include\clases\configuracion.h
+
+1668090479 f:\desktop\proyectos\proyecto final 6.1\include\clases\ventas.h
+
+1666628720 f:\desktop\proyectos\proyecto final 6.1\include\fun\a.h
+
+1668089892 f:\desktop\proyectos\proyecto final 6.1\include\fun\cargar.h
+
+1667953236 f:\desktop\proyectos\proyecto final 6.1\include\fun\mostrar.h
+
+1668091368 f:\desktop\proyectos\proyecto final 6.1\include\fun\reportes.h
+
+1668091674 f:\desktop\proyectos\proyecto final 6.1\include\fun\recuperar.h
+
+1667951205 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_registros.h
+
+1667752101 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_carga.h
+
+1668091450 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_reportes.h
+
+1667607056 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_recuperacion.h
+
+1667933812 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_principal.h
+
+1667614536 f:\desktop\proyectos\proyecto final 6.1\include\fun\random.h
+
+1667951245 f:\desktop\proyectos\proyecto final 6.1\include\menus\menu_random.h
+
+1667954822 source:c:\users\pais gamer\desktop\laboratorio ii\proyecto final\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/configuracion.h"
+	"include/clases/ventas.h"
+	"include/fun/a.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/random.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_random.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1667953264 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\librerias\errores.h
+
+1668089922 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\librerias\fecha.h
+	<time.h>
+
+1668042570 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667499192 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\personas.h
+
+1667953416 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\sucursales.h
+
+1667953478 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\mozos.h
+
+1668084764 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\comidas.h
+
+1672095937 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\bebidas.h
+
+1668089214 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\clientes.h
+
+1667600942 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\configuracion.h
+
+1668092422 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\clases\ventas.h
+
+1666628720 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\a.h
+
+1668089894 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\cargar.h
+
+1667953238 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\mostrar.h
+
+1668091370 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\reportes.h
+
+1667614538 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\random.h
+
+1668658950 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\fun\recuperar.h
+
+1667951206 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_registros.h
+
+1667951246 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_random.h
+
+1667752102 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_carga.h
+
+1668091452 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_reportes.h
+
+1667607058 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_recuperacion.h
+
+1667933814 c:\users\pais gamer\desktop\laboratorio ii\proyecto final\include\menus\menu_principal.h
+
+1667954822 source:c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/configuracion.h"
+	"include/clases/ventas.h"
+	"include/fun/a.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/random.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_random.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1667953264 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\librerias\errores.h
+
+1668089922 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\librerias\fecha.h
+	<time.h>
+
+1668042570 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667499192 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\personas.h
+
+1667953416 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\sucursales.h
+
+1667953478 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\mozos.h
+
+1668084764 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\comidas.h
+
+1672095937 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\bebidas.h
+
+1668089214 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\clientes.h
+
+1667600942 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\configuracion.h
+
+1668092422 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\clases\ventas.h
+
+1666628720 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\a.h
+
+1668089894 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\cargar.h
+
+1667953238 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\mostrar.h
+
+1668091370 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\reportes.h
+
+1667614538 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\random.h
+
+1668658950 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\fun\recuperar.h
+
+1667951206 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_registros.h
+
+1667951246 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_random.h
+
+1667752102 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_carga.h
+
+1668091452 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_reportes.h
+
+1667607058 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_recuperacion.h
+
+1667933814 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\proyecto final\include\menus\menu_principal.h
+
+1684811863 source:c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/mozos.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/clases/configuracion.h"
+	"include/clases/ventas.h"
+	"include/fun/cargar.h"
+	"include/fun/mostrar.h"
+	"include/fun/reportes.h"
+	"include/fun/random.h"
+	"include/fun/recuperar.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_random.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1684588817 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\librerias\errores.h
+
+1668089922 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\librerias\fecha.h
+	<time.h>
+
+1684590249 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1684590342 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\personas.h
+
+1684590388 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\sucursales.h
+
+1684590642 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\mozos.h
+
+1684590436 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\comidas.h
+
+1684590323 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\bebidas.h
+
+1684591024 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\clientes.h
+
+1684588969 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\configuracion.h
+
+1684812024 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\clases\ventas.h
+
+1668089894 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\fun\cargar.h
+
+1667953238 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\fun\mostrar.h
+
+1684589226 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\fun\reportes.h
+
+1667614538 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\fun\random.h
+
+1668658950 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\fun\recuperar.h
+
+1684590310 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_registros.h
+
+1684590296 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_random.h
+
+1667752102 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_carga.h
+
+1684589266 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_reportes.h
+
+1667607058 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_recuperacion.h
+
+1667933814 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\proyecto final\include\menus\menu_principal.h
+
+1687822702 source:c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Iva.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/funciones/Funciones_globales.h"
+	"include/clases/mozos.h"
+	"include/funciones/Funciones_Mozo.h"
+	"include/clases/Detalle.h"
+	"include/funciones/Funciones_Detalle.h"
+	"include/clases/Ticket.h"
+	"include/funciones/Funciones_ticket.h"
+	"include/clases/configuracion.h"
+	"include/funciones/cargar.h"
+	"include/funciones/mostrar.h"
+	"include/funciones/reportes.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1685044880 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\errores.h
+
+1685044322 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\fecha.h
+	<time.h>
+
+1685044332 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687825932 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\personas.h
+
+1687716087 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\sucursales.h
+
+1687825352 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\mozos.h
+
+1687822691 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\comidas.h
+
+1687820592 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\bebidas.h
+
+1687820081 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\clientes.h
+
+1687820968 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\configuracion.h
+
+1686796982 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\ventas.h
+
+1687821683 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\fun\cargar.h
+
+1685044236 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\fun\mostrar.h
+
+1687821693 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\fun\reportes.h
+
+1667614538 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\fun\random.h
+
+1687752769 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\fun\recuperar.h
+
+1687821779 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_registros.h
+
+1687725027 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_random.h
+
+1687723924 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_carga.h
+
+1687721639 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_reportes.h
+
+1685044435 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_recuperacion.h
+
+1686798035 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\menus\menu_principal.h
+
+1687819232 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\funciones_globales.h
+
+1686796924 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\funciones_ventas.h
+
+1687825089 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\detalle.h
+
+1686797513 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\funciones_detalle.h
+
+1688022085 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\ticket.h
+
+1686796924 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\funciones_ticket.h
+
+1687820991 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\librerias\iva.h
+
+1687821953 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\clases\funciones_mozo.h
+
+1688001222 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\funciones_globales.h
+
+1688001160 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\funciones_mozo.h
+
+1687824634 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\funciones_detalle.h
+
+1687829166 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\funciones_ticket.h
+
+1687821683 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\cargar.h
+
+1685044236 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\mostrar.h
+
+1688023905 c:\users\pais gamer\desktop\lab ii (recursandoi)\proyecto final\include\funciones\reportes.h
+
+1687822702 source:c:\users\pais gamer\desktop\proyecto final\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Iva.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/funciones/Funciones_globales.h"
+	"include/clases/mozos.h"
+	"include/funciones/Funciones_Mozo.h"
+	"include/clases/Detalle.h"
+	"include/funciones/Funciones_Detalle.h"
+	"include/clases/Ticket.h"
+	"include/funciones/Funciones_ticket.h"
+	"include/clases/configuracion.h"
+	"include/funciones/cargar.h"
+	"include/funciones/mostrar.h"
+	"include/funciones/reportes.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1685044880 c:\users\pais gamer\desktop\proyecto final\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\proyecto final\include\librerias\errores.h
+
+1687820991 c:\users\pais gamer\desktop\proyecto final\include\librerias\iva.h
+
+1685044322 c:\users\pais gamer\desktop\proyecto final\include\librerias\fecha.h
+	<time.h>
+
+1685044332 c:\users\pais gamer\desktop\proyecto final\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\proyecto final\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688047830 c:\users\pais gamer\desktop\proyecto final\include\clases\personas.h
+
+1687716087 c:\users\pais gamer\desktop\proyecto final\include\clases\sucursales.h
+
+1688047830 c:\users\pais gamer\desktop\proyecto final\include\clases\comidas.h
+
+1687820592 c:\users\pais gamer\desktop\proyecto final\include\clases\bebidas.h
+
+1687820081 c:\users\pais gamer\desktop\proyecto final\include\clases\clientes.h
+
+1688001222 c:\users\pais gamer\desktop\proyecto final\include\funciones\funciones_globales.h
+
+1687825352 c:\users\pais gamer\desktop\proyecto final\include\clases\mozos.h
+
+1688001160 c:\users\pais gamer\desktop\proyecto final\include\funciones\funciones_mozo.h
+
+1687825089 c:\users\pais gamer\desktop\proyecto final\include\clases\detalle.h
+
+1687824634 c:\users\pais gamer\desktop\proyecto final\include\funciones\funciones_detalle.h
+
+1688022085 c:\users\pais gamer\desktop\proyecto final\include\clases\ticket.h
+
+1687829166 c:\users\pais gamer\desktop\proyecto final\include\funciones\funciones_ticket.h
+
+1687820968 c:\users\pais gamer\desktop\proyecto final\include\clases\configuracion.h
+
+1687821683 c:\users\pais gamer\desktop\proyecto final\include\funciones\cargar.h
+
+1685044236 c:\users\pais gamer\desktop\proyecto final\include\funciones\mostrar.h
+
+1688023905 c:\users\pais gamer\desktop\proyecto final\include\funciones\reportes.h
+
+1687821779 c:\users\pais gamer\desktop\proyecto final\include\menus\menu_registros.h
+
+1687723924 c:\users\pais gamer\desktop\proyecto final\include\menus\menu_carga.h
+
+1687721639 c:\users\pais gamer\desktop\proyecto final\include\menus\menu_reportes.h
+
+1685044435 c:\users\pais gamer\desktop\proyecto final\include\menus\menu_recuperacion.h
+
+1686798035 c:\users\pais gamer\desktop\proyecto final\include\menus\menu_principal.h
+
+1687822702 source:c:\users\pais gamer\desktop\la_divina_comida_2.0\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Iva.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/funciones/Funciones_globales.h"
+	"include/clases/mozos.h"
+	"include/funciones/Funciones_Mozo.h"
+	"include/clases/Detalle.h"
+	"include/funciones/Funciones_Detalle.h"
+	"include/clases/Ticket.h"
+	"include/funciones/Funciones_ticket.h"
+	"include/clases/configuracion.h"
+	"include/funciones/cargar.h"
+	"include/funciones/mostrar.h"
+	"include/funciones/reportes.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1685044880 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\errores.h
+
+1687820991 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\iva.h
+
+1685044322 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\fecha.h
+	<time.h>
+
+1685044332 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688047830 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\personas.h
+
+1687716087 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\sucursales.h
+
+1688047830 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\comidas.h
+
+1687820592 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\bebidas.h
+
+1687820081 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\clientes.h
+
+1688001222 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\funciones_globales.h
+
+1687825352 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\mozos.h
+
+1688001160 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\funciones_mozo.h
+
+1687825089 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\detalle.h
+
+1687824634 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\funciones_detalle.h
+
+1688022085 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\ticket.h
+
+1687829166 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\funciones_ticket.h
+
+1687820968 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\clases\configuracion.h
+
+1687821683 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\cargar.h
+
+1685044236 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\mostrar.h
+
+1688023905 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\funciones\reportes.h
+
+1687821779 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\menus\menu_registros.h
+
+1687723924 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\menus\menu_carga.h
+
+1687721639 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\menus\menu_reportes.h
+
+1685044435 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\menus\menu_recuperacion.h
+
+1686798035 c:\users\pais gamer\desktop\la_divina_comida_2.0\include\menus\menu_principal.h
+
+1687822702 source:c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	"include/librerias/Basics.h"
+	"include/librerias/errores.h"
+	"include/librerias/Iva.h"
+	"include/librerias/Fecha.h"
+	"include/librerias/Menu.h"
+	"include/clases/personas.h"
+	"include/clases/sucursales.h"
+	"include/clases/comidas.h"
+	"include/clases/bebidas.h"
+	"include/clases/clientes.h"
+	"include/funciones/Funciones_globales.h"
+	"include/clases/mozos.h"
+	"include/funciones/Funciones_Mozo.h"
+	"include/clases/Detalle.h"
+	"include/funciones/Funciones_Detalle.h"
+	"include/clases/Ticket.h"
+	"include/funciones/Funciones_ticket.h"
+	"include/clases/configuracion.h"
+	"include/funciones/cargar.h"
+	"include/funciones/mostrar.h"
+	"include/funciones/reportes.h"
+	"include/menus/menu_registros.h"
+	"include/menus/menu_carga.h"
+	"include/menus/menu_reportes.h"
+	"include/menus/menu_recuperacion.h"
+	"include/menus/menu_principal.h"
+
+1685044880 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\basics.h
+
+1667348852 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\errores.h
+
+1687820991 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\iva.h
+
+1685044322 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\fecha.h
+	<time.h>
+
+1685044332 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\menu.h
+	"rlutil.h"
+
+1654872498 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\librerias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688047830 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\personas.h
+
+1687716087 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\sucursales.h
+
+1688047830 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\comidas.h
+
+1687820592 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\bebidas.h
+
+1687820081 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\clientes.h
+
+1688001222 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\funciones_globales.h
+
+1687825352 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\mozos.h
+
+1688001160 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\funciones_mozo.h
+
+1687825089 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\detalle.h
+
+1687824634 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\funciones_detalle.h
+
+1688022085 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\ticket.h
+
+1687829166 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\funciones_ticket.h
+
+1687820968 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\clases\configuracion.h
+
+1687821683 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\cargar.h
+
+1685044236 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\mostrar.h
+
+1688023905 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\funciones\reportes.h
+
+1687821779 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\menus\menu_registros.h
+
+1687723924 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\menus\menu_carga.h
+
+1687721639 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\menus\menu_reportes.h
+
+1685044435 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\menus\menu_recuperacion.h
+
+1686798035 c:\users\pais gamer\desktop\cursado tup\3er cuatrimestre\lab ii (recursando)\la_divina_comida_2.0\include\menus\menu_principal.h
+
